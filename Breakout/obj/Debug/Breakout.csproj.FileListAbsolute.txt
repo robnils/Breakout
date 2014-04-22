@@ -1,0 +1,9 @@
+C:\All\Projects\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\All\Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\All\Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\All\Projects\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\All\Projects\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\All\Projects\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.Cache
+C:\All\Projects\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\All\Projects\Breakout\Breakout\obj\Debug\Breakout.pdb
+C:\All\Projects\Breakout\Breakout\obj\Debug\Breakout.Main.resources
